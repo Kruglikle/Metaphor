@@ -33,6 +33,3 @@ The script writes results under `runs/smallset/<timestamp>/`:
 - Model files are cached under `hf_cache/` and are ignored by Git.
 - If a model download fails due to SSL issues, the script retries with SSL
   verification disabled.
-
-## License
-MIT
