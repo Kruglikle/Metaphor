@@ -1,0 +1,81 @@
+id,word,label,sentence,note
+1,cold,0,The water in the glass is cold.,physical temperature
+2,cold,0,The cold wind made my face numb.,weather temperature
+3,cold,0,We slept in a cold room last night.,ambient temperature
+4,cold,0,I keep the juice cold in the fridge.,physical temperature
+5,cold,0,My hands are cold after the walk.,body temperature
+6,cold,0,The metal bar feels cold to the touch.,physical temperature
+7,cold,0,She drank cold tea with breakfast.,physical temperature
+8,cold,0,The soup turned cold on the table.,physical temperature
+9,cold,0,The cold rain soaked our jackets.,weather temperature
+10,cold,0,This morning was cold and foggy.,weather temperature
+11,cold,1,His cold reply ended the conversation.,emotional detachment
+12,cold,1,She gave me a cold look and walked away.,emotional detachment
+13,cold,1,The manager made a cold decision without discussion.,lack of empathy
+14,cold,1,Their cold silence made everyone uncomfortable.,emotional distance
+15,cold,1,He sounded cold during the phone call.,emotional detachment
+16,cold,1,The report uses a cold tone to describe the tragedy.,detached style
+17,cold,1,Her cold behavior confused her friends.,emotional distance
+18,cold,1,The team received a cold welcome at the meeting.,social rejection
+19,cold,1,He remained cold even when others were excited.,lack of warmth
+20,cold,1,A cold attitude can ruin a friendship.,emotional detachment
+21,hot,0,The weather is hot today.,weather temperature
+22,hot,0,The sand is hot under my feet.,physical temperature
+23,hot,0,The tea is hot so wait a minute.,physical temperature
+24,hot,0,The soup stayed hot in the pot.,physical temperature
+25,hot,0,The oven is hot so be careful.,physical temperature
+26,hot,0,My face feels hot after running.,body temperature
+27,hot,0,The shower water is hot in the morning.,physical temperature
+28,hot,0,The plate is hot from the microwave.,physical temperature
+29,hot,0,The city becomes hot in July.,weather temperature
+30,hot,0,The air is hot and dry in the afternoon.,weather temperature
+31,hot,1,This is a hot topic in the news.,high interest
+32,hot,1,The manager has a hot temper today.,strong emotion
+33,hot,1,The company made a hot offer to attract clients.,attractive deal
+34,hot,1,The debate became hot after that comment.,intense situation
+35,hot,1,The journalist shared a hot rumor online.,breaking rumor
+36,hot,1,She is a hot candidate for the award.,strong contender
+37,hot,1,The team is on a hot streak this week.,successful run
+38,hot,1,Investors watch the hot market closely.,rapid activity
+39,hot,1,Police followed a hot lead in the case.,promising clue
+40,hot,1,He brought a hot argument to the meeting.,intense claim
+41,bright,0,The bright lamp lit the whole room.,high light intensity
+42,bright,0,We saw a bright star in the night sky.,high light intensity
+43,bright,0,The bright sun reflected on the snow.,high light intensity
+44,bright,0,She wore a bright yellow jacket.,vivid color
+45,bright,0,The bright screen hurt my eyes.,strong light
+46,bright,0,A bright flash surprised everyone.,strong light
+47,bright,0,The bright paint looks fresh and new.,vivid color
+48,bright,0,The bright flames rose above the wood.,strong light
+49,bright,0,There is a bright line on the horizon.,visible light
+50,bright,0,He turned on a bright ceiling light.,strong light
+51,bright,1,She has a bright idea for the project.,intellectual quality
+52,bright,1,The child is bright and learns quickly.,intellectual quality
+53,bright,1,We have a bright future if we work together.,positive outlook
+54,bright,1,He made a bright comment during the debate.,quick thinking
+55,bright,1,Her bright smile changed the mood in the room.,positive affect
+56,bright,1,The plan gives a bright hope to the community.,optimism
+57,bright,1,He is bright despite his young age.,intellectual quality
+58,bright,1,The team started the year with a bright ambition.,optimism
+59,bright,1,She offered a bright solution to the problem.,intellectual quality
+60,bright,1,Their bright mood spread to others.,positive affect
+61,dark,0,The room is dark without the lights.,low light
+62,dark,0,The sky became dark before the storm.,low light
+63,dark,0,We walked through a dark tunnel.,low light
+64,dark,0,The forest looks dark at night.,low light
+65,dark,0,He wore a dark coat to the meeting.,color shade
+66,dark,0,The paint dries to a dark blue color.,color shade
+67,dark,0,The street is dark after midnight.,low light
+68,dark,0,The dark clouds covered the sun.,low light
+69,dark,0,Her hair is dark and curly.,color shade
+70,dark,0,The kitchen stays dark in winter mornings.,low light
+71,dark,1,He felt dark thoughts after the loss.,negative mood
+72,dark,1,The story has a dark ending.,negative tone
+73,dark,1,She kept a dark secret for years.,hidden information
+74,dark,1,The team entered a dark period of failures.,difficult times
+75,dark,1,His dark mood worried his friends.,negative mood
+76,dark,1,The article describes a dark chapter of history.,tragic period
+77,dark,1,They joked to hide a dark fear inside.,inner fear
+78,dark,1,The city faced a dark future without support.,pessimism
+79,dark,1,Her dark message shocked the audience.,ominous tone
+80,dark,1,He made a dark prediction about the economy.,pessimism

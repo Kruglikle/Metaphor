@@ -1,0 +1,10 @@
+# Local caches and artifacts
+hf_cache/
+hf_cache_demo/
+hf_cache_test/
+runs/
+.matplotlib/
+
+# Python bytecode
+__pycache__/
+*.pyc
